@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "World timezone definitions, modern and historical"
+name = "pytz"
+optional = false
+python-versions = "*"
+version = "2019.3"
+
+[metadata]
+content-hash = "587181593fbf500e12428cf2fe789ff4db4af96dbd100d93578fb736fa39a3db"
+python-versions = "^3.7"
+
+[metadata.hashes]
+pytz = ["1c557d7d0e871de1f5ccd5833f60fb2550652da6be2693c1e02300743d21500d", "b02c06db6cf09c12dd25137e563b31700d3b80fcc4ad23abb7a315f2789819be"]
